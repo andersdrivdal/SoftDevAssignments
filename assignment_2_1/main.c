@@ -6,7 +6,7 @@ int main() {
     float average;
     int i = 1;
 
-    printf("Enter as many numbers as you like, followed by 0 to finish::\n");
+    printf("Enter as many numbers as you like, followed by 0 to finish:\n");
 
     while (i != 0) {
         float x;
