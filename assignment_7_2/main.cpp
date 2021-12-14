@@ -18,8 +18,8 @@ int main() {
     average = sum / (i - 1);
     median = array[(i - 1) / 2];
 
-    std::cout << "Hello, World! i = " << i << std::endl;
-    std::cout << "average = " << average << std::endl;
-    std::cout << "median = " << median << std::endl;
+    std::cout << "Count = " << i-1 << std::endl;
+    std::cout << "Average = " << average << std::endl;
+    std::cout << "Median = " << median << std::endl;
     return 0;
 }
